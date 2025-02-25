@@ -1,6 +1,5 @@
 {
     "project_slug": "my-typescript-package",
-    "extension_name": "My TypeScript Package",
     "repository": "",
     "description": "A simple TypeScript package",
     "author": "",
