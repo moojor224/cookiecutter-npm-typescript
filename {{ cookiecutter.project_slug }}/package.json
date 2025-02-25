@@ -2,7 +2,7 @@
     "name": "{{ cookiecutter.project_slug }}",
     "private": false,
     "version": "0.0.0",
-    "description": "{{ cookiecutter.dsecription }}",
+    "description": "{{ cookiecutter.description }}",
     "main": "dist/index.js",
     "module": "./dist/index.mjs",
     "types": "./dist/index.d.ts",
