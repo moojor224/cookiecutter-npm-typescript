@@ -1,0 +1,15 @@
+{
+    "project_slug": "my-typescript-package",
+    "extension_name": "My TypeScript Package",
+    "repository": "",
+    "description": "A simple TypeScript package",
+    "author": "",
+    "email": "",
+    "license": [
+        "ISC",
+        "MIT",
+        "Apache-2.0",
+        "BSD-3-Clause"
+    ],
+    "version": "0.0.0"
+}
